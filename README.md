@@ -3,7 +3,7 @@
 ![Dach-Indicators Preview](photo.png)
 
 
-Welcome to **Dach Indicators**! This is a highly optimized, fully standalone vehicle indicator (turn signal) script for FiveM. I built this from the ground up to be as performant as possible (literally 0.00ms resmon idle) while looking super clean and professional.
+**Dach Indicators**! This is a highly optimized, fully standalone vehicle indicator (turn signal) script for FiveM. I built this from the ground up to be as performant as possible (literally 0.00ms resmon idle) while looking super clean and professional.
 
 ## ✨ Features
 - **True 0.00ms Resmon:** Perfect performance. Uses dynamic thread sleeping so it only uses resources when you actually need it.
